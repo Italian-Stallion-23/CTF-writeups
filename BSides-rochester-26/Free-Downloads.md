@@ -32,7 +32,7 @@ function check_key() {
 }
 
 
-^[a-z]{2}[12345][6789]-[0-9A-z]{4}-Z\d{2}W-[A-z0]{4}$
+'^[a-z]{2}[12345][6789]-[0-9A-z]{4}-Z\d{2}W-[A-z0]{4}$'
 
 
 This breaks down as:
