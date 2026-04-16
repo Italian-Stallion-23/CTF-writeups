@@ -22,6 +22,7 @@ Using browser developer tools, I inspected the page source and identified a Java
 The validation pattern required input matching:
 # BSides Rochester 2026 - MetaCTF Challenge: Free Downloads
 
+"""
 function check_key() {
   var key = $("#license_key").val();
   if (key.match(/^[a-z]{2}[12345][6789]-[0-9A Za-z]{4}-Z\d{2}W-[A-z0]{4}$/i)) {
@@ -34,6 +35,7 @@ function check_key() {
 
 '^[a-z]{2}[12345][6789]-[0-9A-z]{4}-Z\d{2}W-[A-z0]{4}$'
 
+"""
 
 This breaks down as:
 - 2 lowercase letters
