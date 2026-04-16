@@ -3,8 +3,6 @@
 
 
 
-im going to create a new file and add this correct: # picoCTF - File Parts (Zip Reconstruction)
-
 ## Challenge Description
 After establishing SSH access, multiple file parts were located in the home directory. These parts needed to be combined into a single archive and extracted to reveal the flag.
 
