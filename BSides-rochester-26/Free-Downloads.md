@@ -24,7 +24,7 @@ The validation pattern required input matching:
 
 
 ""function check_key() {
-  var key = $("#license_key").val();
+  ""var key = $("#license_key").val();
   ""if (key.match(/^[a-z]{2}[12345][6789]-[0-9A Za-z]{4}-Z\d{2}W-[A-z0]{4}$/i)) {
     window.location.href = "./authenticated_flag_download_page.php";
   } else {
