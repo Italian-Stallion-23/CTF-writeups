@@ -1,6 +1,7 @@
 <img width="1458" height="917" alt="piece-by-piece-picoCTF" src="https://github.com/user-attachments/assets/6950c40c-b34f-47a5-a7b0-778afdb7871f" />
 
 
+# picoCTF - piece-by-piece
 
 
 ## Challenge Description
