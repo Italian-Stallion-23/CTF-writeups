@@ -1,3 +1,4 @@
+<img width="931" height="545" alt="ping-cmd-picoCTF challenge" src="https://github.com/user-attachments/assets/71ffb40d-3eed-4ddc-92a5-442083109a69" />
 # picoCTF - ping-cmd
 
 ## Challenge Description
